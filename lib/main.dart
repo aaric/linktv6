@@ -12,7 +12,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Link TV',
       theme: ThemeData(
-        primarySwatch: Colors.blue
+        primarySwatch: Colors.blue,
+        fontFamily: 'Fira Code'
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page')
     );
