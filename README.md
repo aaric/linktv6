@@ -18,8 +18,8 @@
 |:---:|
 |<img src="docs/logo/client/android.png" height="100px" />|
 
-### 1.2 Management
+### 1.2 Desktop
 
 |Windows|MacOS|Linux|
 |:---:|:---:|:---:|
-|<img src="docs/logo/mgt/windows.png" height="100px" />|<img src="docs/logo/mgt/macos.png" height="100px" />|<img src="docs/logo/mgt/linux.png" height="100px" />|
+|<img src="docs/logo/desktop/windows.png" height="100px" />|<img src="docs/logo/desktop/macos.png" height="100px" />|<img src="docs/logo/desktop/linux.png" height="100px" />|
