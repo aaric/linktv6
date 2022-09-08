@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.incarcloud.linktv6">
    <application
-        android:label="linktv6"
+        android:label="@string/applicationName"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
