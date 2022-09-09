@@ -8,7 +8,7 @@
 
 > Flutter Link TV Project.
 
-&emsp;&emsp;*Base LOGO By [`Flaticon License`](https://www.flaticon.com/free-icon/monitor_3474362)*
+&emsp;&emsp;*Base LOGO By [`Flaticon License`](https://www.flaticon.com/free-icon/monitor_3474362).*
 
 ## 1 Supports
 
